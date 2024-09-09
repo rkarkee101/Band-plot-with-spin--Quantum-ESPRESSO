@@ -1,0 +1,9 @@
+&BANDS
+  prefix="9r"
+  outdir="./"
+  filband="Bandx.dat"
+ lsigma(1)=.true.
+ lsigma(2)=.true.
+ lsigma(3)=.true.
+/
+
